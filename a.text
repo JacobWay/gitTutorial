@@ -6,9 +6,13 @@ HHHHHH can I learn from vim?
 }
 ]
 let HHHHHH c:nohl
+let HHHHHH c:nohl
+
 :nohl
 c:nohl
 
 pp
 static-xms/dawn/src/store/user.js
+nmap <F2> :.w !pbcopy<CR><CR>
+nmap <F2> :.w !pbcopy<CR><CR>
 use tab completion
