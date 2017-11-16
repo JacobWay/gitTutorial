@@ -1,22 +1,5 @@
-category
-This fixed the issue for me.
-Apply the change introduced by the commit at the tip of the master branch and create a new commit with this change.
-!!!
-HHHHHH can I learn from vim?
-HHHHHH can I learn from vim?
-HHHHHH can I learn from vim?
-[
-{
-}
-]
-let HHHHHH c:nohl
-let HHHHHH c:nohl
+ack - grep-like text finder
 
-:nohl
-c:nohl
-
-pp
-static-xms/dawn/src/store/user.js
-nmap <F2> :.w !pbcopy<CR><CR>
-nmap <F2> :.w !pbcopy<CR><CR>
-use tab completion
+SYNOPSIS
+ack [options] PATTERN [FILE...]
+ack -f [options] [DIRECTOTRY]
